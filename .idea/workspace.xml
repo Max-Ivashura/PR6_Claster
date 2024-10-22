@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94b2c290-be02-4e56-baa0-9dae3e6b6b90" name="Changes" comment="" />
+    <list default="true" id="94b2c290-be02-4e56-baa0-9dae3e6b6b90" name="Changes" comment="This is first update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:/Max-Ivashura/PR6_Claster.git",
+    "accountId": "a71ef75e-487c-4156-885e-1203d2ab0a8d"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2noFTkXpAksUNqiVSrc2hb9lYz7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +31,7 @@
   "keyToString": {
     "Python.mit_test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
@@ -41,6 +51,20 @@
       <option name="presentableId" value="Default" />
       <updated>1729631531984</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is first update">
+      <option name="closed" value="true" />
+      <created>1729632112468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729632112468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Actual" />
+    <MESSAGE value="This is first update" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is first update" />
   </component>
 </project>
